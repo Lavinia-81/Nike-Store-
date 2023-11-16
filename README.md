@@ -6,4 +6,5 @@ with an emphasis on the functionality of the shopping cart and other design elem
 I covered how to check if the document is loaded, and how to query the document for elements by class and how to add events to elements.
 Combining all these techniques to make the shopping cart in the project work in an intuitive way.
 
-You can view the project at the following address: https://lavinia-81.github.io/Nike-Sneakers-Store/
+You can view the project at the following address:
+https://lavinia-81.github.io/Nike-Store/
