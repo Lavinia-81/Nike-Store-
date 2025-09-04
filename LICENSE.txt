@@ -1,0 +1,11 @@
+📝 Portfolio License Declaration
+Template Title: Nike-Inspired Sneaker Store
+Created By: Maria
+Purpose: Portfolio showcase only — not for resale or commercial distribution.
+
+License Terms
+This website template was created as a personal design and development exercise, intended solely for showcasing front-end skills, branding style, and UI/UX creativity. It is not affiliated with, endorsed by, or representative of Nike, Inc. or any of its subsidiaries.
+- ✅ Usage: Displayed in personal portfolio, job applications, and educational contexts.
+- ❌ Not for sale, resale, or commercial deployment.
+- 🎨 Design & Code: Authored by Maria using HTML, CSS, JavaScript, and branding elements.
+- 📛 Brand Disclaimer: All references to Nike, Air Jordans, or related imagery are used purely for conceptual demonstration and do not imply ownership or partnership.
