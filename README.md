@@ -1,12 +1,8 @@
-
 # Store App
 
 This repository contains the code for a Store App, organized into three sections: HTML, CSS, and JavaScript. The focus of this project is on the functionality of the shopping cart and other design elements.
 
 # Nike-Sneakers-Store
-
-You can view the project at the following address:
-https://lavinia-81.github.io/Nike-Store/
 
 ## Features
 
