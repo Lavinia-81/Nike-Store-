@@ -16,6 +16,13 @@ It is not affiliated with Nike, Inc. and is intended solely for creative demonst
 
 ---
 
+## 🌐 Live Preview
+
+You can explore the project directly in your browser:  
+🔗 [Nike Sneakers Store – Live Demo](https://lavinia-81.github.io/Nike-Store-/)
+
+---
+
 ## 🧩 Project Structure
 Nike Sneakers Store/ 
 ├── index.html 
@@ -28,6 +35,7 @@ Nike Sneakers Store/
   │   └── branding/ 
 ├── LICENSE.txt
 └── README.md
+
 
 
 - `index.html` – Homepage layout  
@@ -49,7 +57,7 @@ Front-End Developer | Digital Creator | Portfolio Curator
 
 This project is a personal experiment and part of a creative portfolio.  
 All assets are used for demonstration purposes only.  
-© 2025 Maria Lavinia Dusca. All rights reserved.
+© 2025 Maria. All rights reserved.
 
 ---
 
