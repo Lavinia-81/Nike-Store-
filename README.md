@@ -1,33 +1,59 @@
-# Store App
+# 👟 Nike Sneakers Store
 
-This repository contains the code for a Store App, organized into three sections: HTML, CSS, and JavaScript. The focus of this project is on the functionality of the shopping cart and other design elements.
+An experimental front-end concept crafted by **Maria**, blending responsive design, brands, and sneaker culture aesthetics. This project showcases UI/UX finesse, clean code structure, and storytelling through interface.
 
-# Nike-Sneakers-Store
+---
 
-## Features
+## ✨ Purpose
 
-- **HTML**: Structure of the web pages.
-- **CSS**: Styling and layout of the web pages.
-- **JavaScript**: Functionality of the shopping cart and other interactive elements.
+This project was created as part of my personal portfolio to demonstrate:
+- HTML/CSS/JavaScript proficiency
+- Responsive layout and component styling
+- Brand-inspired design thinking
+- Asset organization and semantic structure
 
-## Key Concepts
+It is not affiliated with Nike, Inc. and is intended solely for creative demonstration — not for commercial use.
 
-- **Document Loading**: Checking if the document is fully loaded before executing scripts.
-- **Element Querying**: Using class selectors to query and manipulate elements in the document.
-- **Event Handling**: Adding events to elements to make the shopping cart intuitive and user-friendly.
+---
 
-## How It Works
+## 🧩 Project Structure
+Nike Sneakers Store/ 
+├── index.html 
+├── about1.htm
+├── store.js 
+├── style.css 
+├── img/ │   
+  ├── icons/ │   
+  ├── product-images/
+  │   └── branding/ 
+├── LICENSE.txt
+└── README.md
 
-By combining these techniques, the shopping cart in this project works seamlessly, providing an intuitive user experience. The JavaScript code ensures that items can be added to the cart, quantities can be adjusted, and the total price is updated dynamically.
 
-## Getting Started
+- `index.html` – Homepage layout  
+- `about1.html` – Brand story section  
+- `style.css` – Custom styling and responsive design  
+- `store.js` – Interactive logic and cart behavior  
+- `img/` – Icons, product visuals, and branding assets
 
-To get started with this project, clone the repository and open the `index.html` file in your browser. Make sure to explore the code in the `js`, `css`, and `html` directories to understand how each part contributes to the overall functionality.
+---
 
-## Contributing
+## 🖋️ Author
 
-Feel free to fork this repository and submit pull requests. Any contributions to improve the functionality or design are welcome!
+**Maria**  
+Front-End Developer | Digital Creator | Portfolio Curator  
 
-## License
+---
 
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
+## 📜 License
+
+This project is a personal experiment and part of a creative portfolio.  
+All assets are used for demonstration purposes only.  
+© 2025 Maria Lavinia Dusca. All rights reserved.
+
+---
+
+## 💬 Final Note
+
+This project is a tribute to movement — both in design and in ambition.  
+Built with clarity, care, and a touch of creativity and ambition.
